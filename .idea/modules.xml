@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Uiframe0test.iml" filepath="$PROJECT_DIR$/.idea/Uiframe0test.iml" />
+      <module fileurl="file://D:/python基础/.idea/t_001.iml" filepath="D:/python基础/.idea/t_001.iml" />
+      <module fileurl="file://D:/自动化/.idea/自动化.iml" filepath="D:/自动化/.idea/自动化.iml" />
+    </modules>
+  </component>
+</project>
