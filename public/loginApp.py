@@ -14,6 +14,6 @@ class Mylogin(object):
         self.driver.find_element_by_id("cn.xiaochuankeji.tieba:id/phone_num_edit").send_keys("15127409611")
         self.driver.find_element_by_id("cn.xiaochuankeji.tieba:id/code_edit").send_keys("a123456")
         self.driver.find_element_by_id("cn.xiaochuankeji.tieba:id/login").click()
-        time.sleep(5)
+        time.sleep(3)
 
 
